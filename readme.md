@@ -19,7 +19,7 @@ In dev mode "npm run dev"
 ```
 
 ```
-You can use your own DB eg MongoDB/SQL
+You can use build out your own model using any DB you prefer eg MongoDB/SQL
 ```
 
 - Version 1.0.0
